@@ -4,24 +4,24 @@
   This project was created to assist in streamlining the process of creating a README.md file for created applications.
 
   ## Table of Contents
-  Enter Table of contents.
+  Enter table of contents here.
 
   ## Installation Instructions
   To use this application, please clone this repository and download Node. You'll need to run the index file in Node to start the application.
 
   ## Usage Information
-  You'll need to respond to the questions initiated by inquirer to feed the data that will create the .md file.
+  You'll need to reply to the questions initiated via inquirer to feed the data that will create the .md file.
 
   ## License
-  This application was create using an MIT License
+  This application was created using the MIT license.
 
   ## Contribution Guidelines
   Feel free to make contributions by submitting PRs and I will review accordingly. 
 
   ## Testing
-  Node testing
+  Node TEsting
 
   ## Questions
-  If you have any questions regarding my project, please feel free to reach out to me via email @ kmstephens437@gmail.com.
+  If you have any questions regarding my project, please feel free to reach out to me at kmstephens437@gmail.com
 
 
